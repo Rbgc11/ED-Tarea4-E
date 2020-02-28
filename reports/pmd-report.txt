@@ -1,0 +1,102 @@
+src/TiradaMonedaCX.java:3:	CommentRequired: Class comments are required
+src/TiradaMonedaCX.java:3:	CommentRequired: Class comments are required
+src/TiradaMonedaCX.java:3:	ModifiedCyclomaticComplexity: The class 'TiradaMonedaCX' has a Modified Cyclomatic Complexity of 12 (Highest = 11).
+src/TiradaMonedaCX.java:3:	ModifiedCyclomaticComplexity: The class 'TiradaMonedaCX' has a Modified Cyclomatic Complexity of 12 (Highest = 11).
+src/TiradaMonedaCX.java:3:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/TiradaMonedaCX.java:3:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/TiradaMonedaCX.java:3:	StdCyclomaticComplexity: The class 'TiradaMonedaCX' has a Standard Cyclomatic Complexity of 12 (Highest = 11).
+src/TiradaMonedaCX.java:3:	StdCyclomaticComplexity: The class 'TiradaMonedaCX' has a Standard Cyclomatic Complexity of 12 (Highest = 11).
+src/TiradaMonedaCX.java:3:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/TiradaMonedaCX.java:3:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/TiradaMonedaCX.java:5:	CommentRequired: Public method and constructor comments are required
+src/TiradaMonedaCX.java:5:	CommentRequired: Public method and constructor comments are required
+src/TiradaMonedaCX.java:5:	CyclomaticComplexity: The method 'main(String)' has a cyclomatic complexity of 12.
+src/TiradaMonedaCX.java:5:	CyclomaticComplexity: The method 'main(String)' has a cyclomatic complexity of 12.
+src/TiradaMonedaCX.java:5:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/TiradaMonedaCX.java:5:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/TiradaMonedaCX.java:5:	ModifiedCyclomaticComplexity: The method 'main' has a Modified Cyclomatic Complexity of 11.
+src/TiradaMonedaCX.java:5:	ModifiedCyclomaticComplexity: The method 'main' has a Modified Cyclomatic Complexity of 11.
+src/TiradaMonedaCX.java:5:	NPathComplexity: The method 'main(String)' has an NPath complexity of 327
+src/TiradaMonedaCX.java:5:	NPathComplexity: The method 'main(String)' has an NPath complexity of 327
+src/TiradaMonedaCX.java:5:	StdCyclomaticComplexity: The method 'main' has a Standard Cyclomatic Complexity of 11.
+src/TiradaMonedaCX.java:5:	StdCyclomaticComplexity: The method 'main' has a Standard Cyclomatic Complexity of 11.
+src/TiradaMonedaCX.java:6:	CommentSize: Comment is too large: Line too long
+src/TiradaMonedaCX.java:6:	CommentSize: Comment is too large: Line too long
+src/TiradaMonedaCX.java:7:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/TiradaMonedaCX.java:7:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/TiradaMonedaCX.java:7:	ShortVariable: Avoid variables with short names like a
+src/TiradaMonedaCX.java:7:	ShortVariable: Avoid variables with short names like a
+src/TiradaMonedaCX.java:7:	ShortVariable: Avoid variables with short names like b
+src/TiradaMonedaCX.java:7:	ShortVariable: Avoid variables with short names like b
+src/TiradaMonedaCX.java:8:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCaras' (lines '8'-'27').
+src/TiradaMonedaCX.java:8:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCaras' (lines '8'-'27').
+src/TiradaMonedaCX.java:8:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCruces' (lines '8'-'30').
+src/TiradaMonedaCX.java:8:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCruces' (lines '8'-'30').
+src/TiradaMonedaCX.java:8:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCruces' (lines '8'-'37').
+src/TiradaMonedaCX.java:8:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCruces' (lines '8'-'37').
+src/TiradaMonedaCX.java:8:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'numTiradas' (lines '8'-'19').
+src/TiradaMonedaCX.java:8:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'numTiradas' (lines '8'-'19').
+src/TiradaMonedaCX.java:8:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/TiradaMonedaCX.java:8:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/TiradaMonedaCX.java:9:	CommentSize: Comment is too large: Line too long
+src/TiradaMonedaCX.java:9:	CommentSize: Comment is too large: Line too long
+src/TiradaMonedaCX.java:10:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont1' (lines '10'-'56').
+src/TiradaMonedaCX.java:10:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont1' (lines '10'-'56').
+src/TiradaMonedaCX.java:10:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont1' (lines '10'-'61').
+src/TiradaMonedaCX.java:10:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont1' (lines '10'-'61').
+src/TiradaMonedaCX.java:10:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont2' (lines '10'-'65').
+src/TiradaMonedaCX.java:10:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont2' (lines '10'-'65').
+src/TiradaMonedaCX.java:10:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont2' (lines '10'-'70').
+src/TiradaMonedaCX.java:10:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont2' (lines '10'-'70').
+src/TiradaMonedaCX.java:10:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/TiradaMonedaCX.java:10:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/TiradaMonedaCX.java:11:	LongVariable: Avoid excessively long variable names like maximoCarasDoblesConsecutivas
+src/TiradaMonedaCX.java:11:	LongVariable: Avoid excessively long variable names like maximoCarasDoblesConsecutivas
+src/TiradaMonedaCX.java:11:	LongVariable: Avoid excessively long variable names like maximoCrucesDoblesConsecutivas
+src/TiradaMonedaCX.java:11:	LongVariable: Avoid excessively long variable names like maximoCrucesDoblesConsecutivas
+src/TiradaMonedaCX.java:11:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/TiradaMonedaCX.java:11:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/TiradaMonedaCX.java:12:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'esCaraDoble' (lines '12'-'44').
+src/TiradaMonedaCX.java:12:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'esCaraDoble' (lines '12'-'44').
+src/TiradaMonedaCX.java:12:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'esCaraDoble' (lines '12'-'47').
+src/TiradaMonedaCX.java:12:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'esCaraDoble' (lines '12'-'47').
+src/TiradaMonedaCX.java:12:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'esCruzDoble' (lines '12'-'45').
+src/TiradaMonedaCX.java:12:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'esCruzDoble' (lines '12'-'45').
+src/TiradaMonedaCX.java:12:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'esCruzDoble' (lines '12'-'48').
+src/TiradaMonedaCX.java:12:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'esCruzDoble' (lines '12'-'48').
+src/TiradaMonedaCX.java:12:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/TiradaMonedaCX.java:12:	OneDeclarationPerLine: Use one line for each declaration, it enhances code readability.
+src/TiradaMonedaCX.java:15:	CloseResource: Ensure that resources like this Scanner object are closed after use
+src/TiradaMonedaCX.java:15:	CloseResource: Ensure that resources like this Scanner object are closed after use
+src/TiradaMonedaCX.java:15:	LocalVariableCouldBeFinal: Local variable 'teclado' could be declared final
+src/TiradaMonedaCX.java:15:	LocalVariableCouldBeFinal: Local variable 'teclado' could be declared final
+src/TiradaMonedaCX.java:18:	SystemPrintln: System.out.print is used
+src/TiradaMonedaCX.java:18:	SystemPrintln: System.out.print is used
+src/TiradaMonedaCX.java:27:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCaras' (lines '27'-'34').
+src/TiradaMonedaCX.java:27:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCaras' (lines '27'-'34').
+src/TiradaMonedaCX.java:30:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCruces' (lines '30'-'37').
+src/TiradaMonedaCX.java:30:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCruces' (lines '30'-'37').
+src/TiradaMonedaCX.java:34:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCaras' (lines '34'-'27').
+src/TiradaMonedaCX.java:34:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCaras' (lines '34'-'27').
+src/TiradaMonedaCX.java:34:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCaras' (lines '34'-'34').
+src/TiradaMonedaCX.java:34:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'contadorCaras' (lines '34'-'34').
+src/TiradaMonedaCX.java:40:	SystemPrintln: System.out.println is used
+src/TiradaMonedaCX.java:40:	SystemPrintln: System.out.println is used
+src/TiradaMonedaCX.java:61:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont1' (lines '61'-'56').
+src/TiradaMonedaCX.java:61:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont1' (lines '61'-'56').
+src/TiradaMonedaCX.java:61:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont1' (lines '61'-'61').
+src/TiradaMonedaCX.java:61:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont1' (lines '61'-'61').
+src/TiradaMonedaCX.java:61:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'cont1' (lines '61'-'77').
+src/TiradaMonedaCX.java:61:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'cont1' (lines '61'-'77').
+src/TiradaMonedaCX.java:70:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont2' (lines '70'-'65').
+src/TiradaMonedaCX.java:70:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont2' (lines '70'-'65').
+src/TiradaMonedaCX.java:70:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont2' (lines '70'-'70').
+src/TiradaMonedaCX.java:70:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cont2' (lines '70'-'70').
+src/TiradaMonedaCX.java:70:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'cont2' (lines '70'-'77').
+src/TiradaMonedaCX.java:70:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'cont2' (lines '70'-'77').
+src/TiradaMonedaCX.java:74:	SystemPrintln: System.out.println is used
+src/TiradaMonedaCX.java:74:	SystemPrintln: System.out.println is used
+src/TiradaMonedaCX.java:75:	SystemPrintln: System.out.println is used
+src/TiradaMonedaCX.java:75:	SystemPrintln: System.out.println is used
+src/TiradaMonedaCX.java:76:	SystemPrintln: System.out.println is used
+src/TiradaMonedaCX.java:76:	SystemPrintln: System.out.println is used
