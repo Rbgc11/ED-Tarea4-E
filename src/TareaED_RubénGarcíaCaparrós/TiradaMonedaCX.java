@@ -5,7 +5,14 @@ import java.util.Scanner;
 
 public class TiradaMonedaCX {
 
+	/**
+	 * @deprecated Use {@link #main(String[],Object)} instead
+	 */
 	public static void main(String[] args) {
+		main(args, null);
+	}
+
+	public static void main(String[] args, Object newParam) {
 //las variables a y b servirán para guardar el resultado de la tirada de dos monedas
 		int operador1, operador2;
 		int contadorCaras = 0, contadorCruces = 0, numTiradas;
@@ -74,6 +81,22 @@ public class TiradaMonedaCX {
 			}
 		}
 
+		Imprimir(contadorCaras, contadorCruces, maximoCarasDoblesConsecutivas, maximoCrucesDoblesConsecutivas);
+	}
+
+	public static void Imprimir(int contadorCaras, int contadorCruces, int maximoCarasDoblesConsecutivas,
+			int maximoCrucesDoblesConsecutivas) {
+		extracted(contadorCaras, contadorCruces, maximoCarasDoblesConsecutivas, maximoCrucesDoblesConsecutivas);
+	}
+
+	/**
+	 * @param contadorCaras
+	 * @param contadorCruces
+	 * @param maximoCarasDoblesConsecutivas
+	 * @param maximoCrucesDoblesConsecutivas
+	 */
+	public static void extracted(int contadorCaras, int contadorCruces, int maximoCarasDoblesConsecutivas,
+			int maximoCrucesDoblesConsecutivas) {
 		System.out.println("Caras: " + contadorCaras + ", Cruces: " + contadorCruces);
 		System.out.println("Maximo de caras dobles consecutivas: " + maximoCarasDoblesConsecutivas);
 		System.out.println("Maximo de cruces dobles consecutivas: " + maximoCrucesDoblesConsecutivas);
